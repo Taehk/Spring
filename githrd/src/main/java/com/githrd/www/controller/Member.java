@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
 import com.githrd.www.dao.MemberDao;
+import com.githrd.www.vo.MemberVO;
 
 @Controller
 @RequestMapping("/member")
